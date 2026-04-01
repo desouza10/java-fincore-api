@@ -88,7 +88,7 @@ Os endpoints podem ser testados utilizando:
 
 ## 🚀 Próximos passos
 
-- [ ] Implementar criação de transações (POST)
+- [x] Implementar criação de transações (POST)
 - [ ] Implementar atualização (PUT)
 - [ ] Implementar remoção (DELETE)
 - [ ] Integração com banco de dados (JPA)
